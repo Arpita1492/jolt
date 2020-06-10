@@ -1,0 +1,30 @@
+[ 
+    {
+        "operation": "remove", 
+        "spec": { 
+            "Class": {
+                "*": { 
+                    "name": "" 
+                }
+            }
+        }
+    },
+    {
+        "operation": "shift", 
+        "spec": {
+            "Class": {
+                "*": { 
+                    
+                }
+            }
+        }
+    },
+    {
+        "operation": "default", 
+        "spec": {
+            "*": { 
+                "Student Ids": ["123456","Jimmy002"]
+            }
+        }
+    }
+]
